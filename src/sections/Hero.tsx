@@ -1,3 +1,5 @@
+"use client";
+
 import { motion } from 'framer-motion';
 import { Download, ArrowRight, Instagram, Layers, Pen, Type, Brush } from 'lucide-react';
 import { StatCard } from '../components/StatCard';

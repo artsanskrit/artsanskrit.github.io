@@ -1,3 +1,5 @@
+"use client";
+
 import { motion } from 'framer-motion';
 import { Mail, Phone, Send } from 'lucide-react';
 import { useState } from 'react';
@@ -14,16 +16,34 @@ export function Contact() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setIsSubmitting(true);
-    
-    // Simulate form submission
-    await new Promise((resolve) => setTimeout(resolve, 1500));
-    
-    setIsSubmitting(false);
-    setIsSubmitted(true);
-    setFormData({ name: '', email: '', message: '' });
-    
-    // Reset success message after 3 seconds
-    setTimeout(() => setIsSubmitted(false), 3000);
+
+    try {
+      const response = await fetch("/api/contact", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(formData),
+      });
+
+      const data = await response.json();
+
+      if (response.ok) {
+        setIsSubmitted(true);
+        setFormData({ name: "", email: "", message: "" });
+
+        // Reset success message after 3 seconds
+        setTimeout(() => setIsSubmitted(false), 3000);
+      } else {
+        // Handle error
+        console.error("Contact form error:", data);
+        // Optionally show error toast using Sonner
+      }
+    } catch (error) {
+      console.error("Contact form submission failed:", error);
+    } finally {
+      setIsSubmitting(false);
+    }
   };
 
   const handleChange = (

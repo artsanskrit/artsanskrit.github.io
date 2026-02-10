@@ -1,3 +1,5 @@
+"use client";
+
 import { motion } from 'framer-motion';
 import { Instagram, Dribbble, Linkedin } from 'lucide-react';
 
