@@ -1,21 +1,15 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { CTASection } from "./CTASection";
 import type { Project } from "@/data/projects";
+import { projects as allProjects } from "@/data/projects";
 
 export function ProjectDetailContent({ project }: { project: Project }) {
-  const [more, setMore] = useState<Project[]>([]);
-
-  useEffect(() => {
-    fetch("/api/projects")
-      .then((r) => r.json())
-      .then((data: Project[]) => {
-        setMore(data.filter((p) => p.slug !== project.slug));
-      })
-      .catch(console.error);
-  }, [project.slug]);
+  const [more] = useState<Project[]>(
+    allProjects.filter((p) => p.slug !== project.slug)
+  );
 
   return (
     <section className="bg-[#F5EFEB] min-h-screen">

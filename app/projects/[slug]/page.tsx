@@ -19,5 +19,5 @@ export async function generateStaticParams() {
   return projects.map((p) => ({ slug: p.slug }));
 }
 
-// allow this route to be server-rendered on every request
-export const dynamic = 'force-dynamic';
+// this page will be statically generated via generateStaticParams
+export const dynamic = 'force-static';

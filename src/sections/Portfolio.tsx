@@ -4,18 +4,10 @@ import { motion } from 'framer-motion';
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 import { ProjectCard } from '../components/ProjectCard';
-import { useEffect, useState } from 'react';
+import { projects as allProjects } from '../data/projects';
 
 export function Portfolio() {
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const [projects, setProjects] = useState<any[]>([]);
-
-  useEffect(() => {
-    fetch('/api/projects')
-      .then((res) => res.json())
-      .then((data) => setProjects(data))
-      .catch(console.error);
-  }, []);
+  const projects = allProjects;
 
   return (
     <section

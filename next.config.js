@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     reactStrictMode: true,
-    // removed `output: 'export'` to support dynamic API routes and server-side
-    // rendering. Static HTML export does not work with Next.js API routes.
+    // output: export for static GitHub Pages deployment
+    output: 'export',
     images: {
         unoptimized: true
     }
