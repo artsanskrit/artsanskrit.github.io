@@ -30,8 +30,10 @@ jobs:
       - name: Build Next.js app
         run: npm run build
 
-      - name: Add .nojekyll
-        run: touch out/.nojekyll
+      - name: Prepare Pages folder
+        run: |
+          mkdir -p out
+          touch out/.nojekyll
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
