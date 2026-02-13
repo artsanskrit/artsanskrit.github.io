@@ -18,12 +18,21 @@ export function Contact() {
     setIsSubmitting(true);
 
     try {
-      const response = await fetch("/api/contact", {
+      // Use FormSubmit.co AJAX endpoint so we can handle response in JS
+      const response = await fetch("https://formsubmit.co/ajax/artsanskrit@gmail.com", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
         },
-        body: JSON.stringify(formData),
+        body: JSON.stringify({
+          ...formData,
+          // tell FormSubmit who should receive replies
+          _replyto: formData.email,
+          _subject: `New contact from ${formData.name} via Artsanskrit Portfolio`,
+          // simple autoresponse for the sender
+          _autoresponse:
+            "Thank you for contacting Artsanskrit! We'll get back to you as soon as possible.",
+        }),
       });
 
       const data = await response.json();
@@ -122,7 +131,23 @@ export function Contact() {
             viewport={{ once: true }}
             transition={{ duration: 0.5, delay: 0.2 }}
           >
-            <form onSubmit={handleSubmit} className="space-y-6">
+            <form
+              onSubmit={handleSubmit}
+              action="https://formsubmit.co/artsanskrit@gmail.com"
+              method="POST"
+              className="space-y-6"
+            >
+              {/* hidden fields for FormSubmit, _replyto is updated via JS when submitting */}
+              <input
+                type="hidden"
+                name="_autoresponse"
+                value="Thank you for contacting Artsanskrit! We'll get back to you as soon as possible."
+              />
+              <input
+                type="hidden"
+                name="_replyto"
+                value={formData.email}
+              />
               <div>
                 <label
                   htmlFor="name"
