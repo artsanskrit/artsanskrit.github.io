@@ -1,0 +1,778 @@
+[
+  {
+    "slug": "modern-brand-identity",
+    "image": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?q=80&w=1200&auto=format&fit=crop",
+    "category": "Branding",
+    "title": "Modern Brand Identity System",
+    "views": "18.4",
+    "likes": "4.2",
+    "description": "Developed a comprehensive brand identity system for a tech startup. Included logo design, typography scale, custom color palette, and extensive brand guidelines. This project increased brand recognition by 156% and improved customer retention by 42%.",
+    "details": {
+      "client": "TechFlow Innovations",
+      "industry": "SaaS Technology",
+      "timeline": "4 months",
+      "challenge": "Create a distinctive brand identity that appeals to both enterprise clients and startup innovators while maintaining premium positioning.",
+      "solution": "Designed a modular logo system with geometric elements, selected sophisticated typography, and created a vibrant yet professional color palette. Delivered comprehensive 80-page brand guideline document.",
+      "results": "156% increase in brand recognition, 42% improvement in customer retention, brand used across 50+ client touchpoints"
+    },
+    "testimonial": {
+      "text": "The brand identity they created completely transformed how we're perceived in the market. It's modern, flexible, and helps us stand out from competitors.",
+      "author": "Sarah Chen",
+      "role": "Founder & CEO",
+      "company": "TechFlow Innovations"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Logo system showcase",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Brand guidelines color palette",
+        "width": 1000,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=900&auto=format&fit=crop",
+        "alt": "Typography scale and hierarchy",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1613909207039-6b173b755cc1?q=80&w=1100&auto=format&fit=crop",
+        "alt": "Business card and stationery",
+        "width": 1100,
+        "height": 700
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600508774634-4e11d34730e2?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Website design implementation",
+        "width": 1000,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1561070791-2526d30994b5?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Social media kit and templates",
+        "width": 1200,
+        "height": 900
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1561183286-d3fee7d55364?q=80&w=950&auto=format&fit=crop",
+        "alt": "Brand packaging design",
+        "width": 950,
+        "height": 1000
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1561070791-2526d30994b5?q=80&w=1100&auto=format&fit=crop",
+        "alt": "App icon and UI elements",
+        "width": 1100,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Brand presentation deck",
+        "width": 1000,
+        "height": 750
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1561070791-2526d30994b5?q=80&w=1050&auto=format&fit=crop",
+        "alt": "Marketing collateral samples",
+        "width": 1050,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Environmental design applications",
+        "width": 1200,
+        "height": 900
+      }
+    ],
+    "cta": {
+      "heading": "Ready to Transform Your Brand?",
+      "description": "Let's create a distinctive brand identity that sets you apart.",
+      "backgroundColor": "linear-gradient(to right, #2563EB, #1E40AF)",
+      "buttonText": "Start a Project"
+    }
+  },
+  {
+    "slug": "instagram-growth-campaign",
+    "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=1200&auto=format&fit=crop",
+    "category": "Social Media",
+    "title": "Instagram Growth Campaign - 380% Engagement Increase",
+    "views": "15.1",
+    "likes": "3.6",
+    "description": "Designed and executed a data-driven Instagram marketing campaign for a lifestyle brand. Created high-converting carousel posts, Reels, and Stories that generated 380% engagement increase and 12K new followers in 6 months.",
+    "details": {
+      "client": "Luxe Lifestyle Co.",
+      "industry": "Fashion & Beauty",
+      "timeline": "6 months",
+      "challenge": "Increase Instagram engagement and followers for a premium brand competing in a saturated market.",
+      "solution": "Developed cohesive visual language, created 80+ carousel posts, 40+ Reels, weekly Stories, and used data analytics for optimal posting times.",
+      "results": "380% engagement increase, 12K new followers, 28% conversion to sales, average video views: 18K per post"
+    },
+    "testimonial": {
+      "text": "Their creative direction and data strategy transformed our Instagram presence. The ROI was incredible – we couldn't have asked for better results.",
+      "author": "Marcus Bennett",
+      "role": "Marketing Director",
+      "company": "Luxe Lifestyle Co."
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Instagram feed overview",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1557838923-2985c318be48?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Carousel post design 1",
+        "width": 1000,
+        "height": 1250
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1611262588024-d12430b98920?q=80&w=1100&auto=format&fit=crop",
+        "alt": "Carousel post design 2",
+        "width": 1100,
+        "height": 1100
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1611605698335-8b1569810432?q=80&w=1050&auto=format&fit=crop",
+        "alt": "Reel thumbnail designs",
+        "width": 1050,
+        "height": 1200
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1607706189992-eae578626c86?q=80&w=950&auto=format&fit=crop",
+        "alt": "Story sticker designs",
+        "width": 950,
+        "height": 1700
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Highlight cover designs",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Analytics dashboard visualization",
+        "width": 1200,
+        "height": 700
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1599297097280-13c3a7e708d1?q=80&w=1100&auto=format&fit=crop",
+        "alt": "Brand partnership collaboration",
+        "width": 1100,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Influencer collaboration campaign",
+        "width": 1000,
+        "height": 900
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522335617519-c21cdc684e00?q=80&w=1050&auto=format&fit=crop",
+        "alt": "User generated content curation",
+        "width": 1050,
+        "height": 850
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1557672172-298e090d0f80?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Video production stills",
+        "width": 1200,
+        "height": 750
+      }
+    ],
+    "cta": {
+      "heading": "Grow Your Instagram Presence?",
+      "description": "Let's create engaging content that drives real engagement.",
+      "backgroundColor": "linear-gradient(to right, #EC4899, #DB2777)",
+      "buttonText": "Start a Project"
+    }
+  },
+  {
+    "slug": "editorial-book-cover-series",
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=1200&auto=format&fit=crop",
+    "category": "Editorial",
+    "title": "Editorial Book Cover Series - 12 Award-Winning Designs",
+    "views": "11.7",
+    "likes": "2.9",
+    "description": "Created a stunning series of 12 book covers for an independent publishing house. Each design won recognition at industry design awards and increased average book sales by 64% compared to previous covers.",
+    "details": {
+      "client": "Independent Publishing House",
+      "industry": "Publishing & Literature",
+      "timeline": "8 months",
+      "challenge": "Design distinctive, market-competitive book covers that appeal to diverse genres while maintaining publishing house identity.",
+      "solution": "Developed unique visual approach for each genre, used premium typography, custom illustrations, and experimented with dimensional elements.",
+      "results": "2 design awards, 64% average sales increase, featured in 3 design publications, 95% positive reader feedback"
+    },
+    "testimonial": {
+      "text": "The book covers exceeded all expectations. Not only are they beautiful, but they've significantly boosted our sales and brand credibility.",
+      "author": "Emma Richardson",
+      "role": "Publishing Director",
+      "company": "Independent Publishing House"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=800&auto=format&fit=crop",
+        "alt": "Fiction novel cover 1",
+        "width": 800,
+        "height": 1200
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=800&auto=format&fit=crop",
+        "alt": "Mystery thriller cover",
+        "width": 800,
+        "height": 1200
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?q=80&w=850&auto=format&fit=crop",
+        "alt": "Romance novel cover",
+        "width": 850,
+        "height": 1250
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?q=80&w=800&auto=format&fit=crop",
+        "alt": "Science fiction cover",
+        "width": 800,
+        "height": 1200
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=900&auto=format&fit=crop",
+        "alt": "Self-help book cover",
+        "width": 900,
+        "height": 1350
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507842217343-583f20270319?q=80&w=800&auto=format&fit=crop",
+        "alt": "Children's book cover",
+        "width": 800,
+        "height": 1000
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1543002588-d83ceddc0a5d?q=80&w=850&auto=format&fit=crop",
+        "alt": "Educational textbook cover",
+        "width": 850,
+        "height": 1100
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?q=80&w=800&auto=format&fit=crop",
+        "alt": "Biography book cover",
+        "width": 800,
+        "height": 1200
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507842217343-583f20270319?q=80&w=900&auto=format&fit=crop",
+        "alt": "Poetry collection cover",
+        "width": 900,
+        "height": 1350
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1537520999303-ec7f58b67b27?q=80&w=850&auto=format&fit=crop",
+        "alt": "Travel guide cover",
+        "width": 850,
+        "height": 1000
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=800&auto=format&fit=crop",
+        "alt": "Cookbook design",
+        "width": 800,
+        "height": 1100
+      }
+    ],
+    "cta": {
+      "heading": "Need a Stunning Book Cover?",
+      "description": "Let's design a cover that attracts readers and tells your story.",
+      "backgroundColor": "linear-gradient(to right, #92400E, #78350F)",
+      "buttonText": "Start a Project"
+    }
+  },
+  {
+    "slug": "data-visualization-infographics",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+    "category": "Infographics",
+    "title": "Data Visualization & Infographics Suite - Complex Data Made Simple",
+    "views": "9.8",
+    "likes": "2.4",
+    "description": "Transformed complex statistical and research data into compelling visual narratives. Created 15+ infographics used in presentations, reports, and marketing materials, improving data comprehension by 89%.",
+    "details": {
+      "client": "Market Research Firm",
+      "industry": "Business Intelligence & Analytics",
+      "timeline": "5 months",
+      "challenge": "Communicate complex market research data to diverse audiences including executives, analysts, and general public in engaging formats.",
+      "solution": "Designed custom infographic system using consistent visual elements, selected appropriate chart types for each data set, and created animated versions for digital use.",
+      "results": "89% improvement in data comprehension, used in 50+ client presentations, 12% increase in report engagement"
+    },
+    "testimonial": {
+      "text": "Their infographics make our data storytelling compelling and easy to understand. Our clients are impressed by the professional presentation.",
+      "author": "Dr. James Wilson",
+      "role": "Head of Analytics",
+      "company": "Market Research Firm"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Market analysis infographic",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?q=80&w=1100&auto=format&fit=crop",
+        "alt": "Pie chart and statistics",
+        "width": 1100,
+        "height": 1100
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1543286386-713bdd548da4?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Timeline and progression",
+        "width": 1000,
+        "height": 1400
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581091870627-3c7c56f4bdf4?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Geographic heat map",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581093588401-16ec4b92f3b4?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Comparison chart design",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-aeb19be489c7?q=80&w=1100&auto=format&fit=crop",
+        "alt": "Dashboard visualization",
+        "width": 1100,
+        "height": 700
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Mobile responsive charts",
+        "width": 1000,
+        "height": 1200
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Interactive prototype",
+        "width": 1200,
+        "height": 900
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Print infographic poster",
+        "width": 1000,
+        "height": 1500
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1518432531f686-eb7149326ad9?q=80&w=1100&auto=format&fit=crop",
+        "alt": "Social media graphics set",
+        "width": 1100,
+        "height": 650
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Presentation slides design",
+        "width": 1200,
+        "height": 800
+      }
+    ],
+    "cta": {
+      "heading": "Visualize Your Data?",
+      "description": "Turn complex information into compelling visual stories.",
+      "backgroundColor": "linear-gradient(to right, #0891B2, #0E7490)",
+      "buttonText": "Start a Project"
+    }
+  },
+  {
+    "slug": "email-newsletter-design",
+    "image": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?q=80&w=1200&auto=format&fit=crop",
+    "category": "Emails",
+    "title": "Email Newsletter System - 34% Open Rate Campaign",
+    "views": "13.3",
+    "likes": "3.1",
+    "description": "Designed a complete responsive email template system for marketing campaigns. Achieved 34% average open rate and 8.2% click-through rate, significantly outperforming industry benchmarks.",
+    "details": {
+      "client": "E-commerce Platform",
+      "industry": "Digital Marketing",
+      "timeline": "3 months",
+      "challenge": "Create email templates that drive engagement across multiple device types while maintaining brand consistency.",
+      "solution": "Built reusable, modular email components with progressive enhancement, mobile-first approach, and A/B tested subject lines.",
+      "results": "34% open rate vs. 21% industry average, 8.2% CTR vs. 4% average, 22% increase in email subscriptions"
+    },
+    "testimonial": {
+      "text": "The email system transformed our email marketing. The results speak for themselves – our engagement metrics have never been better.",
+      "author": "Lisa Thompson",
+      "role": "Email Marketing Manager",
+      "company": "E-commerce Platform"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Newsletter template overview",
+        "width": 1000,
+        "height": 1400
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1587614382346-4ecf4bb7b8e8?q=80&w=950&auto=format&fit=crop",
+        "alt": "Welcome email design",
+        "width": 950,
+        "height": 1300
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559028012-481c04fa702d?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Product promotion email",
+        "width": 1000,
+        "height": 1500
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581091012184-7c94e8a8f0b1?q=80&w=1050&auto=format&fit=crop",
+        "alt": "Seasonal campaign email",
+        "width": 1050,
+        "height": 1400
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581093588401-16ec4b92f3b4?q=80&w=950&auto=format&fit=crop",
+        "alt": "Mobile responsive demo",
+        "width": 950,
+        "height": 1200
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Abandoned cart email",
+        "width": 1000,
+        "height": 1300
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1598581424534-4cbf198fd612?q=80&w=900&auto=format&fit=crop",
+        "alt": "Loyalty program email",
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Customer testimonial email",
+        "width": 1000,
+        "height": 1400
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1611162621305-c69b3fa7fbe0?q=80&w=950&auto=format&fit=crop",
+        "alt": "Event invitation email",
+        "width": 950,
+        "height": 1300
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1551069613-1904dbdcda11?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Referral program email",
+        "width": 1000,
+        "height": 1400
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1518632266237-7cda5f13f92c?q=80&w=1050&auto=format&fit=crop",
+        "alt": "Analytics and A/B testing",
+        "width": 1050,
+        "height": 900
+      }
+    ],
+    "cta": {
+      "heading": "Boost Your Email Engagement?",
+      "description": "Transform your email marketing with stunning templates.",
+      "backgroundColor": "linear-gradient(to right, #7C3AED, #6D28D9)",
+      "buttonText": "Start a Project"
+    }
+  },
+  {
+    "slug": "conversion-landing-page",
+    "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?q=80&w=1200&auto=format&fit=crop",
+    "category": "Landing Pages",
+    "title": "High-Converting Landing Page - 18% Conversion Rate",
+    "views": "16.9",
+    "likes": "3.8",
+    "description": "Designed and optimized a landing page that achieved an exceptional 18% conversion rate through strategic UX/UI design, persuasive copywriting, and comprehensive A/B testing.",
+    "details": {
+      "client": "SaaS Software Company",
+      "industry": "Software & Technology",
+      "timeline": "6 weeks",
+      "challenge": "Create a landing page that converts high-intent visitors into qualified leads for a B2B SaaS product.",
+      "solution": "Implemented conversion-focused design principles, strategic CTA placement, social proof elements, clear value proposition, and mobile optimization.",
+      "results": "18% conversion rate, 45% higher than industry average, 2.3K qualified leads in first month, $850K pipeline generated"
+    },
+    "testimonial": {
+      "text": "The landing page exceeded our expectations. The conversion rate is nearly double what we projected. This is a game-changer for our sales process.",
+      "author": "David Morgan",
+      "role": "VP of Growth",
+      "company": "SaaS Software Company"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Landing page full view",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=1100&auto=format&fit=crop",
+        "alt": "Hero section design",
+        "width": 1100,
+        "height": 700
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Features section",
+        "width": 1000,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559027615-1e91c1c1b7b5?q=80&w=1100&auto=format&fit=crop",
+        "alt": "Pricing comparison table",
+        "width": 1100,
+        "height": 650
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Social proof testimonials",
+        "width": 1200,
+        "height": 750
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1000&auto=format&fit=crop",
+        "alt": "CTA optimization variations",
+        "width": 1000,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1100&auto=format&fit=crop",
+        "alt": "Mobile responsive version",
+        "width": 1100,
+        "height": 1400
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Form design and validation",
+        "width": 1000,
+        "height": 700
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-aeb19be489c7?q=80&w=1200&auto=format&fit=crop",
+        "alt": "A/B testing results dashboard",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Conversion tracking setup",
+        "width": 1000,
+        "height": 900
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1100&auto=format&fit=crop",
+        "alt": "Thank you page design",
+        "width": 1100,
+        "height": 800
+      }
+    ],
+    "cta": {
+      "heading": "Need a High-Converting Landing Page?",
+      "description": "Let's build a page that turns visitors into customers.",
+      "backgroundColor": "linear-gradient(to right, #DC2626, #B91C1C)",
+      "buttonText": "Start a Project"
+    }
+  },
+  {
+    "slug": "google-display-ad-campaign",
+    "image": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?q=80&w=1200&auto=format&fit=crop",
+    "category": "Banners",
+    "title": "Google Display Ad Campaign - Multi-Format Creative Suite",
+    "views": "12.2",
+    "likes": "2.7",
+    "description": "Designed comprehensive Google Display Ad campaign with 45+ unique creatives across all standard IAB sizes. Achieved 8.2% CTR and 2.1x ROAS through strategic design and messaging.",
+    "details": {
+      "client": "Consumer Electronics Retailer",
+      "industry": "Retail & E-commerce",
+      "timeline": "4 months",
+      "challenge": "Create visually distinct ads for Display Network that stand out and drive traffic to product pages.",
+      "solution": "Designed 45 unique banners in all IAB standard sizes with dynamic messaging, created animated versions for enhanced engagement, and implemented retargeting variations.",
+      "results": "8.2% CTR, 2.1x ROAS, 42K clicks, $320K revenue generated, 3 ads won industry recognition"
+    },
+    "testimonial": {
+      "text": "The display ad creative suite performed exceptionally well. The variety and quality of designs helped us maintain relevance across the network.",
+      "author": "Amanda Foster",
+      "role": "Digital Marketing Manager",
+      "company": "Consumer Electronics Retailer"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Campaign overview",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1581090700227-1e8a1d5d9f14?q=80&w=728&auto=format&fit=crop",
+        "alt": "Leaderboard 728x90",
+        "width": 728,
+        "height": 90
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=336&auto=format&fit=crop",
+        "alt": "Half page ad 336x280",
+        "width": 336,
+        "height": 280
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?q=80&w=300&auto=format&fit=crop",
+        "alt": "Medium rectangle 300x250",
+        "width": 300,
+        "height": 250
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=970&auto=format&fit=crop",
+        "alt": "Wide skyscraper 970x250",
+        "width": 970,
+        "height": 250
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=160&auto=format&fit=crop",
+        "alt": "Square 160x160",
+        "width": 160,
+        "height": 160
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=300&auto=format&fit=crop",
+        "alt": "Inline rectangle 300x600",
+        "width": 300,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Responsive ad example",
+        "width": 1200,
+        "height": 600
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1518632266237-7cda5f13f92c?q=80&w=800&auto=format&fit=crop",
+        "alt": "Animated ad sequence",
+        "width": 800,
+        "height": 400
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-aeb19be489c7?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Performance metrics",
+        "width": 1000,
+        "height": 700
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Retargeting variations",
+        "width": 1200,
+        "height": 800
+      }
+    ],
+    "cta": {
+      "heading": "Scale Your Ad Campaign?",
+      "description": "Create eye-catching ads that drive results.",
+      "backgroundColor": "linear-gradient(to right, #059669, #047857)",
+      "buttonText": "Start a Project"
+    }
+  },
+  {
+    "slug": "brand-story-motion-video",
+    "image": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?q=80&w=1200&auto=format&fit=crop",
+    "category": "Branding",
+    "title": "Brand Story Motion Video - Cinematic Storytelling",
+    "views": "14.6",
+    "likes": "3.4",
+    "description": "Created cinematic brand storytelling motion videos combining animation, live-action footage, and sound design. Achieved 2.8M views across platforms and 45% engagement rate.",
+    "details": {
+      "client": "Sustainable Fashion Brand",
+      "industry": "Fashion & Sustainability",
+      "timeline": "10 weeks",
+      "challenge": "Communicate brand values and mission through compelling video content that resonates with environmentally conscious audiences.",
+      "solution": "Developed narrative-driven videos, combined motion graphics with live action, collaborated with production team, and optimized for multiple platforms.",
+      "results": "2.8M total views, 45% engagement rate, 156K new social followers, featured in 8 design publications"
+    },
+    "testimonial": {
+      "text": "The videos beautifully capture our brand story. The emotional connection with our audience has been remarkable. This has become a cornerstone of our marketing.",
+      "author": "Nina Patel",
+      "role": "Creative Director",
+      "company": "Sustainable Fashion Brand"
+    },
+    "gallery": [
+      {
+        "url": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Video hero frame",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=1100&auto=format&fit=crop",
+        "alt": "Scene 1 storyboard",
+        "width": 1100,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1505685296765-3a2736de412f?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Animation keyframes",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1495567720989-cebdbdd97913?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Color grading suite",
+        "width": 1000,
+        "height": 900
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?q=80&w=1100&auto=format&fit=crop",
+        "alt": "Scene composition",
+        "width": 1100,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1505235687859-a49502fc2582?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Sound design visualization",
+        "width": 1000,
+        "height": 700
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1495567720989-cebdbdd97913?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Motion graphics effects",
+        "width": 1200,
+        "height": 750
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Behind the scenes",
+        "width": 1000,
+        "height": 900
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1460925895917-aeb19be489c7?q=80&w=1100&auto=format&fit=crop",
+        "alt": "Platform adaptation mockups",
+        "width": 1100,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1200&auto=format&fit=crop",
+        "alt": "Analytics dashboard",
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1000&auto=format&fit=crop",
+        "alt": "Video testimonials",
+        "width": 1000,
+        "height": 900
+      }
+    ],
+    "cta": {
+      "heading": "Need Professional Video Production?",
+      "description": "Let's create cinematic content that tells your brand story.",
+      "backgroundColor": "linear-gradient(to right, #9333EA, #7E22CE)",
+      "buttonText": "Start a Project"
+    }
+  }
+]

@@ -1,34 +1,22 @@
 "use client";
 
 import { motion } from 'framer-motion';
+import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 import { ProjectCard } from '../components/ProjectCard';
-
-const projects = [
-  {
-    image: '/images/project-1.jpg',
-    category: 'Branding',
-    title: 'Brand Identity System',
-    views: '12.5',
-    likes: '2.8',
-  },
-  {
-    image: '/images/project-2.jpg',
-    category: 'Social Media',
-    title: 'Social Media Campaign',
-    views: '10.2',
-    likes: '2.1',
-  },
-  {
-    image: '/images/project-3.jpg',
-    category: 'Editorial',
-    title: 'Book Cover Design',
-    views: '8.9',
-    likes: '1.9',
-  },
-];
+import { useEffect, useState } from 'react';
 
 export function Portfolio() {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const [projects, setProjects] = useState<any[]>([]);
+
+  useEffect(() => {
+    fetch('/api/projects')
+      .then((res) => res.json())
+      .then((data) => setProjects(data))
+      .catch(console.error);
+  }, []);
+
   return (
     <section
       id="work"
@@ -58,16 +46,17 @@ export function Portfolio() {
 
         {/* Projects Grid */}
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {projects.map((project, index) => (
-            <ProjectCard
-              key={index}
-              image={project.image}
-              category={project.category}
-              title={project.title}
-              views={project.views}
-              likes={project.likes}
-              delay={index * 0.1}
-            />
+          {projects.slice(0, 3).map((project, index) => (
+            <Link key={project.slug} href={`/projects/${project.slug}`}>
+              <ProjectCard
+                image={project.image}
+                category={project.category}
+                title={project.title}
+                views={project.views}
+                likes={project.likes}
+                delay={index * 0.1}
+              />
+            </Link>
           ))}
         </div>
 
@@ -79,14 +68,16 @@ export function Portfolio() {
           transition={{ duration: 0.5, delay: 0.4 }}
           className="text-center mt-12"
         >
-          <motion.button
-            whileHover={{ scale: 1.02 }}
-            whileTap={{ scale: 0.98 }}
-            className="inline-flex items-center gap-2 px-8 py-4 border-2 border-foreground text-foreground rounded-full font-semibold hover:bg-foreground hover:text-white transition-colors"
-          >
-            View All Projects
-            <ArrowRight className="w-5 h-5" />
-          </motion.button>
+          <Link href="/projects">
+            <motion.button
+              whileHover={{ scale: 1.02 }}
+              whileTap={{ scale: 0.98 }}
+              className="inline-flex items-center gap-2 px-8 py-4 border-2 border-foreground text-foreground rounded-full font-semibold hover:bg-foreground hover:text-white transition-colors"
+            >
+              View All Projects
+              <ArrowRight className="w-5 h-5" />
+            </motion.button>
+          </Link>
         </motion.div>
       </div>
     </section>
