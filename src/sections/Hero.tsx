@@ -34,7 +34,7 @@ export function Hero() {
       id="home"
       className="relative min-h-screen bg-gradient-to-br from-[#FFF0F0] via-[#FFF5F5] to-[#FFF8F8] overflow-hidden"
     >
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-32 pb-20">
+      <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 pt-16 pb-20">
         <div className="grid lg:grid-cols-2 gap-12 items-center min-h-[calc(100vh-200px)]">
           {/* Left Content */}
           <motion.div
@@ -65,7 +65,7 @@ export function Hero() {
             {/* Name */}
             <motion.h1
               variants={itemVariants}
-              className="text-5xl sm:text-6xl lg:text-7xl font-bold text-foreground mb-2"
+              className="text-4xl sm:text-6xl lg:text-7xl font-bold text-foreground mb-2"
             >
               Saurabh Jha
             </motion.h1>
@@ -73,7 +73,7 @@ export function Hero() {
             {/* Title */}
             <motion.h2
               variants={itemVariants}
-              className="text-3xl sm:text-4xl lg:text-5xl font-bold text-primary mb-8"
+              className="text-2xl sm:text-4xl lg:text-5xl font-bold text-primary mb-8"
             >
               Creative Designer
             </motion.h2>
@@ -146,8 +146,8 @@ export function Hero() {
             </motion.div>
           </motion.div>
 
-          {/* Right Content - Character */}
-          <div className="relative hidden lg:block">
+          {/* Right Content - Character (visible on mobile with compact layout) */}
+          <div className="absolute right-0 top-0 z-[11] mt-8 lg:relative lg:right-auto lg:top-auto block">
             {/* Main Character */}
             <motion.div
               initial={{ opacity: 0, x: 50 }}
@@ -158,7 +158,7 @@ export function Hero() {
               <motion.img
                 src="/images/hero-character-1.png"
                 alt="Saurabh Jha - Creative Designer"
-                className="w-full max-w-lg mx-auto"
+                className="w-auto h-[30vh] md:h-[40vh] max-w-md lg:w-full lg:h-auto lg:max-w-lg mx-auto"
                 animate={{ y: [0, -10, 0] }}
                 transition={{
                   duration: 3,
@@ -172,7 +172,7 @@ export function Hero() {
             <FloatingIcon
               delay={0.5}
               duration={3.5}
-              className="absolute top-10 right-10 bg-white p-3 rounded-xl shadow-soft"
+              className="absolute top-10 right-10 bg-white p-3 rounded-xl shadow-soft hidden sm:block"
             >
               <Layers className="w-6 h-6 text-primary" />
             </FloatingIcon>
@@ -180,7 +180,7 @@ export function Hero() {
             <FloatingIcon
               delay={0.7}
               duration={4}
-              className="absolute top-1/3 right-0 bg-white p-3 rounded-xl shadow-soft"
+              className="absolute top-2/3 lg:top-1/3 right-0 bg-white p-3 rounded-xl shadow-soft hidden sm:block"
             >
               <Pen className="w-5 h-5 text-foreground/60" />
             </FloatingIcon>
@@ -188,7 +188,7 @@ export function Hero() {
             <FloatingIcon
               delay={0.9}
               duration={3}
-              className="absolute bottom-1/3 right-5 bg-white p-3 rounded-xl shadow-soft"
+              className="absolute bottom-1/3 right-52 lg:right-5 bg-white p-3 rounded-xl shadow-soft hidden sm:block"
             >
               <Brush className="w-5 h-5 text-foreground/60" />
             </FloatingIcon>
@@ -196,7 +196,7 @@ export function Hero() {
             <FloatingIcon
               delay={1.1}
               duration={3.5}
-              className="absolute bottom-20 right-20 bg-white p-3 rounded-xl shadow-soft"
+              className="absolute right-[60%] bottom-5 lg:bottom-20 lg:right-20 bg-white p-3 rounded-xl shadow-soft hidden sm:block"
             >
               <Type className="w-6 h-6 text-foreground/60" />
             </FloatingIcon>
@@ -206,7 +206,7 @@ export function Hero() {
               initial={{ opacity: 0, scale: 0.8 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.5, delay: 1 }}
-              className="absolute bottom-32 right-0 bg-white rounded-2xl p-4 shadow-medium"
+              className="absolute lg:bottom-32 sm:-bottom-2 md:bottom-8 right-0 bg-white rounded-2xl p-4 shadow-medium hidden sm:block"
             >
               <div className="flex items-center gap-3">
                 <div className="w-10 h-10 bg-success/20 rounded-full flex items-center justify-center">
@@ -236,7 +236,7 @@ export function Hero() {
               initial={{ opacity: 0, scale: 0.8 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.5, delay: 1.2 }}
-              className="absolute top-20 left-10 bg-white rounded-2xl p-4 shadow-medium"
+              className="absolute top-20 -left-8 lg:left-10 bg-white rounded-2xl p-4 shadow-medium hidden sm:block"
             >
               <div className="flex items-center gap-3">
                 <div className="w-10 h-10 bg-primary/20 rounded-full flex items-center justify-center">
