@@ -188,88 +188,19 @@
         "title": "Book Cover Designs",
         "views": "11.7",
         "likes": "2.9",
-        "description": "Created a stunning series of 12 book covers for an independent publishing house. Each design won recognition at industry design awards and increased average book sales by 64% compared to previous covers.",
+        "description": "Created a stunning series book covers for an educational publishing house. Each design won recognition at industry design awards and increased average book sales by 64% compared to previous covers.",
         "details": {
-            "client": "Independent Publishing House",
-            "industry": "Publishing & Literature",
-            "timeline": "8 months",
-            "challenge": "Design distinctive, market-competitive book covers that appeal to diverse genres while maintaining publishing house identity.",
-            "solution": "Developed unique visual approach for each genre, used premium typography, custom illustrations, and experimented with dimensional elements.",
-            "results": "2 design awards, 64% average sales increase, featured in 3 design publications, 95% positive reader feedback"
-        },
-        "testimonial": {
-            "text": "The book covers exceeded all expectations. Not only are they beautiful, but they've significantly boosted our sales and brand credibility.",
-            "author": "Emma Richardson",
-            "role": "Publishing Director",
-            "company": "Independent Publishing House"
+            
+        
         },
         "gallery": [
             {
-                "url": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=800&auto=format&fit=crop",
+                "url": "/images/book cover/Book cover 1.png",
                 "alt": "Fiction novel cover 1",
-                "width": 800,
-                "height": 1200
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=800&auto=format&fit=crop",
-                "alt": "Mystery thriller cover",
-                "width": 800,
-                "height": 1200
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?q=80&w=850&auto=format&fit=crop",
-                "alt": "Romance novel cover",
-                "width": 850,
-                "height": 1250
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?q=80&w=800&auto=format&fit=crop",
-                "alt": "Science fiction cover",
-                "width": 800,
-                "height": 1200
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=900&auto=format&fit=crop",
-                "alt": "Self-help book cover",
-                "width": 900,
-                "height": 1350
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1507842217343-583f20270319?q=80&w=800&auto=format&fit=crop",
-                "alt": "Children's book cover",
-                "width": 800,
-                "height": 1000
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1543002588-d83ceddc0a5d?q=80&w=850&auto=format&fit=crop",
-                "alt": "Educational textbook cover",
-                "width": 850,
-                "height": 1100
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?q=80&w=800&auto=format&fit=crop",
-                "alt": "Biography book cover",
-                "width": 800,
-                "height": 1200
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1507842217343-583f20270319?q=80&w=900&auto=format&fit=crop",
-                "alt": "Poetry collection cover",
-                "width": 900,
-                "height": 1350
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1537520999303-ec7f58b67b27?q=80&w=850&auto=format&fit=crop",
-                "alt": "Travel guide cover",
-                "width": 850,
-                "height": 1000
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=800&auto=format&fit=crop",
-                "alt": "Cookbook design",
-                "width": 800,
-                "height": 1100
+                "width": 406,
+                "height": 541
             }
+            
         ],
         "cta": {
             "heading": "Need a Stunning Book Cover?",
