@@ -195,11 +195,59 @@
         },
         "gallery": [
             {
-                "url": "/images/book cover/Book cover 1.png",
+                "url": "/images/book cover/book1 (1).png",
                 "alt": "Fiction novel cover 1",
                 "width": 406,
                 "height": 541
-            }  
+            },
+            {
+                "url": "/images/book cover/book1 (2).png",
+                "alt": "Fiction novel cover 2",
+                "width": 406,
+                "height": 541
+            },
+            {
+                "url": "/images/book cover/book1 (3).png",
+                "alt": "Fiction novel cover 3",
+                "width": 406,
+                "height": 541
+            },
+            {
+                "url": "/images/book cover/book1 (4).png",
+                "alt": "Fiction novel cover 4",
+                "width": 406,
+                "height": 541
+            },
+            {
+                "url": "/images/book cover/book1 (5).png",
+                "alt": "Fiction novel cover 5",
+                "width": 406,
+                "height": 541
+            },
+            {
+                "url": "/images/book cover/book1 (6).png",
+                "alt": "Fiction novel cover 6",
+                "width": 406,
+                "height": 541
+            },
+            {
+                "url": "/images/book cover/book1 (7).png",
+                "alt": "Fiction novel cover 7",
+                "width": 406,
+                "height": 541
+            },
+            {
+                "url": "/images/book cover/book1 (8).png",
+                "alt": "Fiction novel cover 8",
+                "width": 406,
+                "height": 541
+            },
+            {
+                "url": "/images/book cover/book1 (9).png",
+                "alt": "Fiction novel cover 9",
+                "width": 406,
+                "height": 541
+            }
             
         ],
         "cta": {
