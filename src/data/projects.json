@@ -94,70 +94,40 @@
         "description": "Designed and executed a data-driven social media marketing campaign for multiple brand. Created high-converting carousel posts, static, and Stories that generated 380% engagement increase and 12K new followers in 6 months.",
         "gallery": [
             {
-                "url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=1200&auto=format&fit=crop",
+                "url": "/images/tvp/Ad1 (1).png",
                 "alt": "Instagram feed overview",
-                "width": 1200,
+                "width": 800,
                 "height": 800
             },
             {
-                "url": "https://images.unsplash.com/photo-1557838923-2985c318be48?q=80&w=1000&auto=format&fit=crop",
-                "alt": "Carousel post design 1",
-                "width": 1000,
-                "height": 1250
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1611262588024-d12430b98920?q=80&w=1100&auto=format&fit=crop",
-                "alt": "Carousel post design 2",
-                "width": 1100,
-                "height": 1100
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1611605698335-8b1569810432?q=80&w=1050&auto=format&fit=crop",
-                "alt": "Reel thumbnail designs",
-                "width": 1050,
-                "height": 1200
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1607706189992-eae578626c86?q=80&w=950&auto=format&fit=crop",
-                "alt": "Story sticker designs",
-                "width": 950,
-                "height": 1700
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?q=80&w=1000&auto=format&fit=crop",
-                "alt": "Highlight cover designs",
-                "width": 1000,
-                "height": 1000
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
-                "alt": "Analytics dashboard visualization",
-                "width": 1200,
-                "height": 700
-            },
-            {
-                "url": "https://images.unsplash.com/photo-1599297097280-13c3a7e708d1?q=80&w=1100&auto=format&fit=crop",
-                "alt": "Brand partnership collaboration",
-                "width": 1100,
+                "url": "/images/tvp/Ad1 (2).png",
+                "alt": "Carousel post design",
+                "width": 800,
                 "height": 800
             },
             {
-                "url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1000&auto=format&fit=crop",
-                "alt": "Influencer collaboration campaign",
-                "width": 1000,
-                "height": 900
+                "url": "/images/tvp/Ad1 (3).png",
+                "alt": "Instagram Story design",
+                "width": 1080,
+                "height": 1920
             },
             {
-                "url": "https://images.unsplash.com/photo-1522335617519-c21cdc684e00?q=80&w=1050&auto=format&fit=crop",
-                "alt": "User generated content curation",
-                "width": 1050,
-                "height": 850
+                "url": "/images/tvp/Ad1 (4).png",
+                "alt": "Engagement metrics dashboard",
+                "width": 800,
+                "height": 800
             },
             {
-                "url": "https://images.unsplash.com/photo-1557672172-298e090d0f80?q=80&w=1200&auto=format&fit=crop",
-                "alt": "Video production stills",
-                "width": 1200,
-                "height": 750
+                "url": "/images/tvp/Ad1 (5).png",
+                "alt": "Follower growth chart",
+                "width": 800,
+                "height": 800
+            },
+            {
+                "url": "/images/tvp/Ad1 (6).png",
+                "alt": "Audience demographics visualization",
+                "width": 800,
+                "height": 800
             }
         ],
         "cta": {
