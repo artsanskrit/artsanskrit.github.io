@@ -85,22 +85,18 @@
         }
     },
     {
-        "slug": "instagram-growth-campaign",
-        "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=1200&auto=format&fit=crop",
+        "slug": "social media-ad-campaign",
+        "image": "/images/sm.jpg",
         "category": "Social Media",
-        "title": "Instagram Growth Campaign - 380% Engagement Increase",
+        "title": "Instagram ad Campaign",
         "views": "15.1",
         "likes": "3.6",
-        "description": "Designed and executed a data-driven Instagram marketing campaign for a lifestyle brand. Created high-converting carousel posts, Reels, and Stories that generated 380% engagement increase and 12K new followers in 6 months.",
+        "description": "Designed and executed a data-driven social media marketing campaign for a multiple brand. Created high-converting carousel posts, static, and Stories that generated 380% engagement increase and 12K new followers in 6 months.",
         "details": {
-            "client": "Luxe Lifestyle Co.",
-            "industry": "Fashion & Beauty",
-            "timeline": "6 months",
-            "challenge": "Increase Instagram engagement and followers for a premium brand competing in a saturated market.",
-            "solution": "Developed cohesive visual language, created 80+ carousel posts, 40+ Reels, weekly Stories, and used data analytics for optimal posting times.",
-            "results": "380% engagement increase, 12K new followers, 28% conversion to sales, average video views: 18K per post"
-        },
-        "testimonial": {
+        
+
+        }
+    
             "text": "Their creative direction and data strategy transformed our Instagram presence. The ROI was incredible – we couldn't have asked for better results.",
             "author": "Marcus Bennett",
             "role": "Marketing Director",
