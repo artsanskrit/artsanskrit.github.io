@@ -344,87 +344,112 @@
         "views": "9.8",
         "likes": "2.4",
         "description": "Transformed complex statistical and research data into compelling visual narratives. Created 15+ infographics used in presentations, reports, and marketing materials, improving data comprehension by 89%.",
-        "details": {
-            "client": "Market Research Firm",
-            "industry": "Business Intelligence & Analytics",
-            "timeline": "5 months",
-            "challenge": "Communicate complex market research data to diverse audiences including executives, analysts, and general public in engaging formats.",
-            "solution": "Designed custom infographic system using consistent visual elements, selected appropriate chart types for each data set, and created animated versions for digital use.",
-            "results": "89% improvement in data comprehension, used in 50+ client presentations, 12% increase in report engagement"
-        },
-        "testimonial": {
-            "text": "Their infographics make our data storytelling compelling and easy to understand. Our clients are impressed by the professional presentation.",
-            "author": "Dr. James Wilson",
-            "role": "Head of Analytics",
-            "company": "Market Research Firm"
-        },
+    
         "gallery": [
             {
-                "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+                "url": "/images/sc infographics/1.png",
                 "alt": "Market analysis infographic",
-                "width": 1200,
-                "height": 1600
+                "width": 1080,
+                "height": 1350
             },
             {
-                "url": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?q=80&w=1100&auto=format&fit=crop",
-                "alt": "Pie chart and statistics",
-                "width": 1100,
-                "height": 1100
+                "url": "/images/sc infographics/2.png",
+                "alt": "Customer demographics infographic",
+                "width": 1080,
+                "height": 1350
             },
             {
-                "url": "https://images.unsplash.com/photo-1543286386-713bdd548da4?q=80&w=1000&auto=format&fit=crop",
-                "alt": "Timeline and progression",
-                "width": 1000,
-                "height": 1400
+                "url": "/images/sc infographics/3.png",
+                "alt": "Product performance infographic",
+                "width": 1080,
+                "height": 1350
             },
             {
-                "url": "https://images.unsplash.com/photo-1581091870627-3c7c56f4bdf4?q=80&w=1200&auto=format&fit=crop",
-                "alt": "Geographic heat map",
-                "width": 1200,
-                "height": 800
+                "url": "/images/sc infographics/4.png",
+                "alt": "Industry trends infographic",
+                "width": 1080,
+                "height": 1350
             },
             {
-                "url": "https://images.unsplash.com/photo-1581093588401-16ec4b92f3b4?q=80&w=1000&auto=format&fit=crop",
-                "alt": "Comparison chart design",
-                "width": 1000,
-                "height": 1000
+                "url": "/images/sc infographics/5.png",
+                "alt": "Competitive landscape infographic",
+                "width": 1080,
+                "height": 1350
             },
             {
-                "url": "https://images.unsplash.com/photo-1460925895917-aeb19be489c7?q=80&w=1100&auto=format&fit=crop",
-                "alt": "Dashboard visualization",
-                "width": 1100,
-                "height": 700
+                "url": "/images/sc infographics/6.png",
+                "alt": "Financial performance infographic",
+                "width": 1080,
+                "height": 1350
             },
             {
-                "url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1000&auto=format&fit=crop",
-                "alt": "Mobile responsive charts",
-                "width": 1000,
-                "height": 1200
+                "url": "/images/sc infographics/7.png",
+                "alt": "Customer journey infographic",
+                "width": 1080,
+                "height": 1350
             },
             {
-                "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=1200&auto=format&fit=crop",
-                "alt": "Interactive prototype",
-                "width": 1200,
-                "height": 900
+                "url": "/images/sc infographics/8.png",
+                "alt": "Data-driven insights infographic",
+                "width": 1080,
+                "height": 1350
             },
             {
-                "url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1000&auto=format&fit=crop",
-                "alt": "Print infographic poster",
-                "width": 1000,
-                "height": 1500
+                "url": "/images/sc infographics/9.png",
+                "alt": "Research findings infographic",
+                "width": 1080,
+                "height": 1350
             },
             {
-                "url": "https://images.unsplash.com/photo-1518432531f686-eb7149326ad9?q=80&w=1100&auto=format&fit=crop",
-                "alt": "Social media graphics set",
-                "width": 1100,
-                "height": 650
+                "url": "/images/sc infographics/10.png",
+                "alt": "Infographic design process visualization",
+                "width": 1080,
+                "height": 1350
             },
             {
-                "url": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1200&auto=format&fit=crop",
-                "alt": "Presentation slides design",
-                "width": 1200,
-                "height": 800
-            }
+                "url": "/images/sc infographics/11.png",
+                "alt": "Infographic design process visualization",
+                "width": 1080,
+                "height": 1350
+            },
+            {
+                "url": "/images/sc infographics/12.png",
+                "alt": "Infographic design process visualization",
+                "width": 1080,
+                "height": 1350
+            },
+            {
+                "url": "/images/sc infographics/13.png",
+                "alt": "Infographic design process visualization",
+                "width": 1080,
+                "height": 1350
+            },
+            {
+                "url": "/images/sc infographics/14.png",
+                "alt": "Infographic design process visualization",
+                "width": 1080,
+                "height": 1350
+            },
+            {
+                "url": "/images/sc infographics/15.png",
+                "alt": "Infographic design process visualization",
+                "width": 1080,
+                "height": 1350
+            },
+                {
+                    "url": "/images/sc infographics/16.png",
+                    "alt": "Infographic design process visualization",
+                    "width": 1080,
+                    "height": 1350
+                },
+                {
+                    "url": "/images/sc infographics/17.png",
+                    "alt": "Infographic design process visualization",
+                    "width": 1080,
+                    "height": 1350
+                }
+
+            
         ],
         "cta": {
             "heading": "Visualize Your Data?",
