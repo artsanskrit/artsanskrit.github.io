@@ -436,18 +436,18 @@
                 "width": 1080,
                 "height": 1350
             },
-                {
-                    "url": "/images/sc infographics/16.png",
-                    "alt": "Infographic design process visualization",
-                    "width": 1080,
-                    "height": 1350
-                },
-                {
-                    "url": "/images/sc infographics/17.png",
-                    "alt": "Infographic design process visualization",
-                    "width": 1080,
-                    "height": 1350
-                }
+            {
+                "url": "/images/sc infographics/16.png",
+                "alt": "Infographic design process visualization",
+                "width": 1080,
+                "height": 1350
+            },
+            {
+                "url": "/images/sc infographics/17.png",
+                "alt": "Infographic design process visualization",
+                "width": 1080,
+                "height": 1350
+            }
 
             
         ],
