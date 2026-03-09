@@ -156,7 +156,7 @@ export function Hero() {
               className="relative z-10"
             >
               <motion.img
-                src="/images/hero-character-1.png"
+                src="/images/Hero image.png"
                 alt="Saurabh Jha - Creative Designer"
                 className="w-auto h-[30vh] md:h-[40vh] max-w-md lg:w-full lg:h-auto lg:max-w-lg mx-auto"
                 animate={{ y: [0, -10, 0] }}
