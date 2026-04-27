@@ -43,26 +43,65 @@ export function ProjectDetailContent({ project }: { project: Project }) {
 
       {/* Image Grid */}
       <div className="max-w-7xl mx-auto px-6 pb-20">
-        <div className="columns-1 sm:columns-2 lg:columns-3 gap-6 space-y-6">
-          {project.gallery?.map((item: string | { url: string; alt: string; width: number; height: number }, i: number) => {
-            // Handle both string URLs and object format {url, alt, width, height}
-            const imageUrl = typeof item === 'string' ? item : item.url;
-            const altText = typeof item === 'string' ? `Gallery image ${i + 1}` : item.alt;
-            
+        {(() => {
+          const galleryItems = project.gallery ?? [];
+          const hasItemSpans = galleryItems.some(
+            (item) => typeof item !== 'string' && item.col && item.col > 1
+          );
+
+          if (!hasItemSpans) {
             return (
-              <div
-                key={i}
-                className="overflow-hidden rounded-2xl bg-white shadow-md break-inside-avoid"
-              >
-                <img
-                  src={imageUrl}
-                  alt={altText}
-                  className="w-full h-auto object-cover rounded-2xl hover:scale-105 transition duration-500"
-                />
+              <div className="columns-1 sm:columns-2 lg:columns-3 gap-6 space-y-6">
+                {galleryItems.map((item, i) => {
+                  const imageUrl = typeof item === 'string' ? item : item.url;
+                  const altText = typeof item === 'string' ? `Gallery image ${i + 1}` : item.alt;
+
+                  return (
+                    <div
+                      key={i}
+                      className="overflow-hidden rounded-2xl bg-white shadow-md break-inside-avoid"
+                    >
+                      <img
+                        src={imageUrl}
+                        alt={altText}
+                        className="w-full h-auto object-cover rounded-2xl hover:scale-105 transition duration-500"
+                      />
+                    </div>
+                  );
+                })}
               </div>
             );
-          })}
-        </div>
+          }
+
+          return (
+            <div className="grid gap-6 auto-rows-auto grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
+              {galleryItems.map((item, i) => {
+                const imageUrl = typeof item === 'string' ? item : item.url;
+                const altText = typeof item === 'string' ? `Gallery image ${i + 1}` : item.alt;
+                const itemCol = typeof item === 'string' ? 1 : item.col ?? 1;
+                const spanClass =
+                  itemCol === 3
+                    ? 'lg:col-span-3'
+                    : itemCol === 2
+                    ? 'sm:col-span-2 lg:col-span-2'
+                    : 'col-span-1';
+
+                return (
+                  <div
+                    key={i}
+                    className={`overflow-hidden rounded-2xl bg-white shadow-md ${spanClass}`}
+                  >
+                    <img
+                      src={imageUrl}
+                      alt={altText}
+                      className="w-full h-auto object-cover rounded-2xl hover:scale-105 transition duration-500"
+                    />
+                  </div>
+                );
+              })}
+            </div>
+          );
+        })()}
       </div>
 
 

@@ -5,6 +5,7 @@ export interface GalleryItem {
   alt: string;
   width: number;
   height: number;
+  col?: 1 | 2 | 3;
 }
 
 export interface ProjectDetails {
