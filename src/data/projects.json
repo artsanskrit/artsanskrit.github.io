@@ -268,16 +268,16 @@
                 "height": 800
             },
                 {
-                    "url": "/images/Grid Earthiya.png",
+                    "url": "/images/hairfall.png",
                     "alt": "Audience demographics visualization",
                     "width": 800,
                     "height": 800
                 },
                 {
-                    "url": "/images/hairfall.png",
+                    "url": "/images/Grid Earthiya.png",
                     "alt": "Audience demographics visualization",
-                    "width": 800,
-                    "height": 800
+                    "width": 2400,
+                    "height": 1600
                 }
         ],
         "cta": {
