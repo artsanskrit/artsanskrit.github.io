@@ -116,14 +116,18 @@ export function Hero() {
 
             {/* CTA Buttons */}
             <motion.div variants={itemVariants} className="flex flex-wrap gap-4 mb-12">
-              <motion.button
+              <motion.a
+                href="/SAURABH_JHA_RESUME%2026.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                download
                 whileHover={{ scale: 1.02 }}
                 whileTap={{ scale: 0.98 }}
                 className="inline-flex items-center gap-2 px-8 py-4 bg-primary text-white rounded-full font-semibold shadow-glow hover:bg-primary-dark transition-colors"
               >
                 Download CV
                 <Download className="w-5 h-5" />
-              </motion.button>
+              </motion.a>
               <motion.a
                 href="#work"
                 whileHover={{ scale: 1.02 }}
